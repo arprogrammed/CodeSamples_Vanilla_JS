@@ -1,0 +1,13 @@
+body {
+    background-color: #303841;
+    font-family: 'Racing Sans One';
+    color: #EEEEEE;
+}
+
+a {
+    color: #EEEEEE;
+}
+
+a:hover {
+    color: #D72323;
+}
