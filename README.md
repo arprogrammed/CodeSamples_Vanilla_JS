@@ -1,4 +1,4 @@
-# Code Show Case 1
+# Code Showcase 1
 
 This repo is for displaying the things I have learned to code and concepts grasped for coding in vanilla JavaScript, HTML, CSS, and using the framework Bootstrap. Each file will contain comments that explain the code I used and my think behind it.
 
